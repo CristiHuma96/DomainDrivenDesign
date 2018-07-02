@@ -1,0 +1,9 @@
+D:\work\Licenta\DDD\After\Logic\bin\Debug\netcoreapp2.0\Logic.deps.json
+D:\work\Licenta\DDD\After\Logic\bin\Debug\netcoreapp2.0\Logic.dll
+D:\work\Licenta\DDD\After\Logic\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+D:\work\Licenta\DDD\After\Logic\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+D:\work\Licenta\DDD\After\Logic\obj\Debug\netcoreapp2.0\Logic.csprojAssemblyReference.cache
+D:\work\Licenta\DDD\After\Logic\obj\Debug\netcoreapp2.0\Logic.csproj.CoreCompileInputs.cache
+D:\work\Licenta\DDD\After\Logic\obj\Debug\netcoreapp2.0\Logic.AssemblyInfoInputs.cache
+D:\work\Licenta\DDD\After\Logic\obj\Debug\netcoreapp2.0\Logic.AssemblyInfo.cs
+D:\work\Licenta\DDD\After\Logic\obj\Debug\netcoreapp2.0\Logic.csproj.CopyComplete

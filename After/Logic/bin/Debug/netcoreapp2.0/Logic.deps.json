@@ -1,0 +1,126 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "a75767988d29804fe3d0a4234eee80d862dd40f1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Logic/1.0.0": {
+        "dependencies": {
+          "CelloSaaS.ExternalDlls": "4.6.1",
+          "FluentNHibernate": "2.0.3",
+          "Newtonsoft.Json": "10.0.0.0"
+        },
+        "runtime": {
+          "Logic.dll": {}
+        }
+      },
+      "CelloSaaS.ExternalDlls/4.6.1": {
+        "dependencies": {
+          "log4net": "2.0.5"
+        },
+        "runtime": {
+          "lib/net45/CacheAdminLibrary.dll": {},
+          "lib/net45/CacheBaseLibrary.dll": {},
+          "lib/net45/Common.Logging.Log4Net.dll": {},
+          "lib/net45/Common.Logging.dll": {},
+          "lib/net45/FabricCommon.dll": {},
+          "lib/net45/Manco.Licensing.dll": {},
+          "lib/net45/Microsoft.Practices.ObjectBuilder2.dll": {},
+          "lib/net45/Microsoft.WindowsAzure.ServiceRuntime.dll": {},
+          "lib/net45/Microsoft.WindowsAzure.Storage.dll": {},
+          "lib/net45/MimeDetective.dll": {},
+          "lib/net45/MvcContrib.dll": {},
+          "lib/net45/NHibernate.ByteCode.LinFu.dll": {},
+          "lib/net45/PdfSharp.dll": {},
+          "lib/net45/Quartz.2010.dll": {},
+          "lib/net45/Quartz.dll": {},
+          "lib/net45/QuartzJobsLib.dll": {},
+          "lib/net45/Remotion.Data.Linq.dll": {},
+          "lib/net45/System.Linq.Dynamic.dll": {},
+          "lib/net45/itextsharp.dll": {},
+          "lib/net45/itextsharp.xmlworker.dll": {}
+        }
+      },
+      "FluentNHibernate/2.0.3": {
+        "dependencies": {
+          "NHibernate": "4.0.0.4000"
+        },
+        "runtime": {
+          "lib/net40/FluentNHibernate.dll": {}
+        }
+      },
+      "Iesi.Collections/4.0.0.4000": {
+        "runtime": {
+          "lib/net40/Iesi.Collections.dll": {}
+        }
+      },
+      "log4net/2.0.5": {
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "NHibernate/4.0.0.4000": {
+        "dependencies": {
+          "Iesi.Collections": "4.0.0.4000"
+        },
+        "runtime": {
+          "lib/net40/NHibernate.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CelloSaaS.ExternalDlls/4.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o85eQ+TJa8BFoapQ2VwtUdddlQeGUotMZQZhzPZi9rZCCB0R2m1JxNumRnrvPdyTopQEBXp7G1vOzGShdSN8tA==",
+      "path": "cellosaas.externaldlls/4.6.1",
+      "hashPath": "cellosaas.externaldlls.4.6.1.nupkg.sha512"
+    },
+    "FluentNHibernate/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qlnjj/a2ClTVWLw0uESCBsmd5r+LaeNXoaUiVyeGzpXmqTs/mfcgZP+GO63xp3VTq4ydNBHKBuWMFMndW/uzOQ==",
+      "path": "fluentnhibernate/2.0.3",
+      "hashPath": "fluentnhibernate.2.0.3.nupkg.sha512"
+    },
+    "Iesi.Collections/4.0.0.4000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fLQKwZovMOhjte47Op+2YWLpmncQ/siA7hOdmG2eBLTFjp81s+gGkkGnDetOhBqYnmWK8g2kyx1DP9uNaJ68Ew==",
+      "path": "iesi.collections/4.0.0.4000",
+      "hashPath": "iesi.collections.4.0.0.4000.nupkg.sha512"
+    },
+    "log4net/2.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AEqPZz+v+OikfnR2SqRVdQPnSaLq5y9Iz1CfRQZ9kTKPYCXHG6zYmDHb7wJotICpDLMr/JqokyjiqKAjUKp0ng==",
+      "path": "log4net/2.0.5",
+      "hashPath": "log4net.2.0.5.nupkg.sha512"
+    },
+    "NHibernate/4.0.0.4000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zHwxTNHQM+ilc6/vKuFYjmRms+Iw6wCL0LsOiR9Imu+Z1sK0MO0gmSlaeR6gTy4cUNjqPZrU8ym5KPBwTp4Ebg==",
+      "path": "nhibernate/4.0.0.4000",
+      "hashPath": "nhibernate.4.0.0.4000.nupkg.sha512"
+    },
+    "Newtonsoft.Json/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
